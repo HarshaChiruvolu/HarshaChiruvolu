@@ -1,27 +1,55 @@
-# Hi, I'm Harsha 👋
+# 👋 Hi, I'm Harsha Chiruvolu
 
-🎓 IIIT Kottayam | BTech CSE (2023–2027)  
-💻 MERN Stack | C++ | Python | MySQL | DSA  
-📊 8.60 CGPA | 97.3 JEE Percentile  
-🚀 Built a real-time chat app using MERN + Socket.io  
-📜 Coursera Certified in Machine Learning and Neural Networks 
+🎓 B.Tech CSE @ IIIT Kottayam (2023–2027)  
+💡 Full-Stack Developer | ML Enthusiast | DSA Problem Solver  
+📈 CGPA: 8.60 | JEE Mains: 97.3 Percentile  
 
-🔗 [Portfolio Website](https://yourportfolio.com) | [LinkedIn](https://linkedin.com/in/harshachiruvolu)
+---
 
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshachiruvolu&show_icons=true&theme=radical)
+## 🛠 Tech Stack
 
+**Languages:**  
+`C++` `Python` `JavaScript` `MySQL`
 
-<!--
-**HarshaChiruvolu/HarshaChiruvolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Development:**  
+`React` `Node.js` `Express.js` `MongoDB` `Zustand` `Tailwind CSS` `REST APIs`
 
-Here are some ideas to get you started:
+**Machine Learning:**  
+`NumPy` `Pandas` `scikit-learn` `Regression` `Classification`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Platforms:**  
+`VS Code` `Git` `GitHub` `Postman` `Render` `Vercel`
+
+---
+
+## 💻 Projects
+
+### 🔹 [LiveLine](https://liveline.onrender.com) — Real-Time Chat App  
+Built with MERN Stack + Socket.IO for instant messaging under 150ms latency.  
+🔗 [GitHub Repo](https://github.com/HarshaChiruvolu/LiveLine.git)
+
+### 🔹 [Trendora](https://trendorafrontend.vercel.app/) — E-commerce Platform  
+Role-based admin dashboard with Cloudinary integration & CI/CD deployment.  
+🔗 [GitHub Repo](https://github.com/HarshaChiruvolu/Trendora-E-Commerce-)
+
+---
+
+## 📜 Certifications
+
+- [Supervised Machine Learning – Coursera](https://www.coursera.org/account/accomplishments/certificate/6BR6XG9A5AYM)  
+- [Neural Networks & Deep Learning – Coursera](https://www.coursera.org/account/accomplishments/certificate/6ZHN4OGB48UR)
+
+---
+
+## 📊 GitHub Stats
+
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaChiruvolu&show_icons=true&theme=github_dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaChiruvolu&layout=compact&theme=github_dark)
+
+---
+
+## 🔗 Connect with Me 
+[💼 LinkedIn](https://www.linkedin.com/in/harshachiruvolu/)  
+[📫 Email](mailto:chiruvoluharshal@gmail.com)
+
