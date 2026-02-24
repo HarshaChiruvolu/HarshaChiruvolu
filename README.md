@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE @ IIIT Kottayam (2023–2027)  
 💡 Full-Stack Developer | ML Enthusiast | DSA Problem Solver  
-📈 CGPA: 8.60 | JEE Mains: 97.3 Percentile  
+📈 CGPA: 8.67 | JEE Mains: 97.3 Percentile  
 
 ---
 
